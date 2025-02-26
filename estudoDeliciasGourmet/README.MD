@@ -31,7 +31,6 @@ Atores
 Funções
 Setores
 Sistema
-João
 Gerente
 Compras
 Ingredientes
