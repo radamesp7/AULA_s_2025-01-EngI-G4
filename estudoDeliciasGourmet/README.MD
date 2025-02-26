@@ -16,3 +16,42 @@ Dentro da fábrica, Pedro, o coordenador de produção, coordena a utilização 
 processo de fabricação. Ele colabora com Maria para garantir que os itens necessários sejam entregues no momento
 certo e na quantidade adequada. Pedro também trabalha com os líderes de cada linha de produção para planejar e
 otimizar a utilização dos materiais.
+
+Lista de substantivos -
+Indústria
+Alimentícia
+Controle
+Materiais
+Processo
+Qualidade
+Eficiência
+Produtos
+História
+Atores
+Funções
+Setores
+Sistema
+João
+Gerente
+Compras
+Ingredientes
+Materiais
+Produção
+Alimentos
+Fornecedores
+Preços
+Custos
+Supervisora
+Estoque
+Armazenamento
+Itens
+Armazém
+Pedido
+Fábrica
+Coordenador
+Produção
+Utilização
+Fabricação
+Líderes
+Linha
+Produção
