@@ -19,66 +19,66 @@ otimizar a utilização dos materiais.
 
 Lista de substantivos -
 
-Indústria Alimentícia
+1- Indústria Alimentícia
 
-Controle
+2- Controle
 
-Materiais
+3- Materiais
 
-Processo
+4- Processo
 
-Qualidade
+5- Qualidade
 
-Eficiência
+6- Eficiência
 
-Produtos
+7- Produtos
 
-História
+8- História
 
-Atores
+9- Atores
 
-Funções
+10- Funções
 
-Setores
+11- Setores
 
-Sistema
+12- Sistema
 
-Gerente
+13- Gerente
 
-Compras
+14- Compras
 
-Ingredientes
+15- Ingredientes
 
-Produção
+16- Produção
 
-Alimentos
+17- Alimentos
 
-Fornecedores
+18- Fornecedores
 
-Preços
+19- Preços
 
-Custos
+20- Custos
 
-Supervisora
+21- Supervisora
 
-Estoque
+22- Estoque
 
-Armazenamento
+23- Armazenamento
 
-Itens
+24- Itens
 
-Armazém
+25- Armazém
 
-Pedido
+26- Pedido
 
-Fábrica
+27- Fábrica
 
-Coordenador
+28- Coordenador
 
-Utilização
+29- Utilização
 
-Fabricação
+30- Fabricação
 
-Líderes
+31- Líderes
 
-Linha
+32- Linha
